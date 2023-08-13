@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/login-register-form/static/css/main.cce20db8.css",
+    "main.js": "/login-register-form/static/js/main.6949b458.js",
+    "static/js/787.d105d5cf.chunk.js": "/login-register-form/static/js/787.d105d5cf.chunk.js",
+    "index.html": "/login-register-form/index.html",
+    "main.cce20db8.css.map": "/login-register-form/static/css/main.cce20db8.css.map",
+    "main.6949b458.js.map": "/login-register-form/static/js/main.6949b458.js.map",
+    "787.d105d5cf.chunk.js.map": "/login-register-form/static/js/787.d105d5cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce20db8.css",
+    "static/js/main.6949b458.js"
+  ]
+}
